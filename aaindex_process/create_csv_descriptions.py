@@ -17,3 +17,5 @@ data.close()
 
 df = pd.DataFrame(matrix_data, columns=['id_property', 'description'])
 df.to_csv(path_output+"aa_index_db_descriptions.csv", index=False)
+
+#Comment
