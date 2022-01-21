@@ -1,0 +1,567 @@
+description,cluster
+alpha-CH chemical shifts,0
+Bulkiness,0
+Hydrophobicity,0
+Dependence of partition coefficient on ionic strength,0
+Principal property value z3,0
+Principal property value z2,0
+Principal property value z1,0
+Hydration potential,0
+Polar requirement,0
+Polarity,0
+Propensity to be buried inside,0
+Bitterness,0
+Electron-ion interaction potential,0
+Optimal matching hydrophobicity,0
+Zimm-Bragg parameter sigma x 1.0E4,0
+Zimm-Bragg parameter s at 20 C,0
+Principal component IV,0
+Principal component III,0
+Principal component II,0
+RF value in high salt chromatography,0
+Isoelectric point,0
+RF rank,0
+Delta G values for the peptides extrapolated to 0 M urea,0
+Averaged turn propensities in a transmembrane helix,0
+Hydropathy scale based on self-information values in the two-state model (50% accessibility),0
+Hydropathy scale based on self-information values in the two-state model (36% accessibility),0
+Hydropathy scale based on self-information values in the two-state model (25% accessibility),0
+Hydropathy scale based on self-information values in the two-state model (20% accessibility),0
+Hydropathy scale based on self-information values in the two-state model (16% accessibility),0
+Hydropathy scale based on self-information values in the two-state model (9% accessibility),0
+Hydropathy scale based on self-information values in the two-state model (5% accessibility),0
+Propensity of amino acids within pi-helices,0
+p-Values of thermophilic proteins based on the distributions of B values,0
+p-Values of mesophilic proteins based on the distributions of B values,0
+Alpha helix propensity of position 44 in T4 lysozyme,0
+Turn propensity scale for transmembrane helices,0
+Thermodynamic beta sheet propensity,0
+Normalized flexibility parameters (B-values) for each residue surrounded by two rigid neighbours,0
+Normalized flexibility parameters (B-values) for each residue surrounded by one rigid neighbours,0
+Normalized flexibility parameters (B-values) for each residue surrounded by none rigid neighbours,0
+"Normalized flexibility parameters (B-values), average",0
+Helix formation parameters (delta delta G),0
+Principal component I,0
+Alpha-helix propensity derived from designed sequences,0
+Mean fractional area loss,0
+Information measure for loop,0
+Intercept in regression analysis,0
+Average number of surrounding residues,0
+Accessibility reduction ratio,0
+Surrounding hydrophobicity in turn,0
+Surrounding hydrophobicity in beta-sheet,0
+Surrounding hydrophobicity in alpha-helix,0
+Average gain ratio in surrounding hydrophobicity,0
+Average gain in surrounding hydrophobicity,0
+Slope in regression analysis x 1.0E1,0
+Surrounding hydrophobicity in folded form,0
+HPLC parameter,0
+Optimized propensity to form reverse turn,0
+Optimized beta-structure-coil equilibrium constant,0
+14 A contact number,0
+8 A contact number,0
+Ratio of average and computed composition,0
+Normalized composition from fungi and plant,0
+Normalized composition from animal,0
+Partition coefficient,0
+Correlation coefficient in regression analysis,0
+Hydrophobicity,0
+Helix-coil equilibrium constant,0
+Information measure for coil,0
+Information measure for C-terminal turn,0
+Information measure for middle turn,0
+Information measure for N-terminal turn,0
+Information measure for turn,0
+Information measure for extended without H-bond,0
+Information measure for pleated-sheet,0
+Information measure for extended,0
+Information measure for C-terminal helix,0
+Information measure for middle helix,0
+Information measure for N-terminal helix,0
+Information measure for alpha-helix,0
+Mean polarity,0
+Accessible surface area,0
+Value of theta(i-1),0
+Value of theta(i),0
+Average reduced distance for C-alpha,0
+Weighted average eigenvalue based on the atomic numbers,0
+Beta-coil equilibrium constant,0
+Mean area buried on transfer,0
+Average reduced distance for C-alpha,0
+Beta-sheet propensity derived from designed sequences,0
+"Screening coefficients gamma, non-local",0
+Optimized relative partition energies - method C,0
+Optimized relative partition energies - method B,0
+Optimized relative partition energies - method A,0
+Relative partition energies derived by the Bethe approximation,0
+TOTLS index,0
+TOTFT index,0
+ALTLS index,0
+ALTFT index,0
+Optimized relative partition energies - method D,0
+PRILS index,0
+SWEIG index,0
+NNEIG index,0
+Hydrophobicity scale from native protein structures,0
+"Hydrophobicity index, 3.0 pH",0
+Weights from the IFH scale,0
+Apparent partition energies calculated from Chothia,0
+Apparent partition energies calculated from Janin ,0
+Apparent partition energies calculated from Robson-Osguthorpe in,0
+PRIFT index,0
+Hydrophobicity index,0
+Hydrophobicity index,0
+Number of vertices (order of the graph),0
+Weighted minimum eigenvalue based on the atomic numbers,0
+Weighted maximum eigenvalue based on the atomic numbers,0
+Average weighted atomic number or degree based on atomic number in the graph,0
+Total weighted atomic number of the graph (obtained by summing all the atomic number of each of the vertices in the graph),0
+Weighted diameter based on the atomic number (maximum eccentricity),0
+Weighted radius based on the atomic number (minimum eccentricity),0
+Average weighted eccentricity based on the the atomic number,0
+Weighted domination number using the atomic number,0
+Second smallest eigenvalue of the Laplacian matrix of the graph,0
+Average eigenvalue of the Laplacian matrix of the the graph,0
+Minimum eigenvalue of the weighted Laplacian matrix of the graph,0
+Maximum eigenvalue of the weighted Laplacian matrix of the graph,0
+"Average weighted degree (total degree, divided by the number of vertices)",0
+Diameter (maximum eccentricity),0
+Radius (minimum eccentricity),0
+Average eccentricity,0
+Weighted domination number,0
+Total weighted degree of the graph (obtained by adding all the weights of all the vertices),0
+Number of edges (size of the graph),0
+Apparent partition energies calculated from Wertz-Scheraga index,0
+"Screening coefficients gamma, local",0
+Hydrophobicity-related index,0
+Hydrophobicity index,0
+Retention coefficient at pH 2,0
+Hydrophilicity scale,0
+"Hydrophobicity coefficient in RP-HPLC, C18 with 0.1%TFA/2-PrOH/MeCN/H2O",0
+"Hydrophobicity coefficient in RP-HPLC, C4 with 0.1%TFA/MeCN/H2O",0
+"Hydrophobicity coefficient in RP-HPLC, C8 with 0.1%TFA/MeCN/H2O",0
+"Hydrophobicity coefficient in RP-HPLC, C18 with 0.1%TFA/MeCN/H2O",0
+Hydrophobicity scales,0
+Electron-ion interaction potential values,0
+Modified Kyte-Doolittle hydrophobicity scale,0
+Volumes not including the crystallographic waters using the ProtOr,0
+Amphiphilicity index,0
+"Slopes proteins, FDPB VFF neutral",0
+"Slopes dekapeptide, FDPB VFF neutral",0
+Slopes tripeptide FDPB PARSE neutral,0
+Slopes tripeptide FDPB VFF all,0
+"Slopes tripeptide, FDPB VFF noside",0
+"Slopes tripeptides, LD VFF neutral",0
+"Slopes tripeptide, FDPB VFF neutral",0
+Volumes including the crystallographic waters using the ProtOr,0
+Interactivity scale obtained from the contact matrix,0
+Interactivity scale obtained by maximizing the mean of correlation coefficient over single-domain globular proteins,0
+Interactivity scale obtained by maximizing the mean of correlation coefficient over pairs of sequences sharing the TIM barrel fold,0
+"Hydrostatic pressure asymmetry index, PAI",0
+Average volumes of residues,0
+Mean volumes of residues buried in protein interiors,0
+Linker index,0
+Buriability,0
+The relative stability scale extracted from mutation experiments,0
+The stability scale from the knowledge-based atom-atom potential,0
+Linker propensity from non-helical (annotated by DSSP) dataset,0
+Linker propensity from helical (annotated by DSSP) dataset,0
+Linker propensity from long dataset (linker length is greater than 14 residues),0
+Linker propensity from medium dataset (linker length is between six and 14 residues),0
+Linker propensity from small dataset (linker length is less than six residues),0
+Linker propensity from 3-linker dataset,0
+Linker propensity from 2-linker dataset,0
+Linker propensity from 1-linker dataset,0
+Linker propensity from all dataset,0
+Knowledge-based membrane-propensity scale from 3D_Helix in MPtopo databases,0
+Knowledge-based membrane-propensity scale from 1D_Helix in MPtopo databases,0
+Linker propensity index,0
+Average internal preferences,0
+Retention coefficient in NaH2PO4,0
+Weighted second smallest eigenvalue of the weighted Laplacian matrix,0
+"Retention coefficient in HPLC, pH2.1",0
+Alpha-helix indices for alpha-proteins,0
+Alpha-helix indices,0
+Partition coefficient,0
+Helix termination parameter at posision j+1,0
+"Helix termination parameter at posision j-2,j-1,j",0
+"Helix initiation parameter at posision i,i+1,i+2",0
+Helix initiation parameter at posision i-1,0
+Helix-coil equilibrium constant,0
+pK-a(RCOOH),0
+Negative charge,0
+Positive charge,0
+Number of full nonbonding orbitals,0
+Number of hydrogen bond donors,0
+Alpha-helix indices for beta-proteins,0
+Localized electrical effect,0
+Normalized van der Waals volume,0
+Smoothed upsilon steric parameter,0
+Graph shape index,0
+Hydrophobic parameter pi,0
+pK-C,0
+pK-N,0
+The Kerr-constant increments,0
+Melting point,0
+van der Waals parameter R0,0
+van der Waals parameter epsilon,0
+Molecular weight,0
+Direction of hydrophobic moment,0
+Atom-based hydrophobic moment,0
+N.m.r. chemical shift of alpha-carbon,0
+Alpha-helix indices for alpha/beta-proteins,0
+Beta-strand indices,0
+Beta-strand indices for beta-proteins,0
+Flexibility parameter for two rigid neighbors,0
+Flexibility parameter for one rigid neighbor,0
+Flexibility parameter for no rigid neighbors,0
+Fraction of site occupied by water,0
+Sequence frequency,0
+Amino acid distribution,0
+pK (-COOH),0
+Hydrophobicity,0
+Ratio of buried and accessible molar fractions,0
+Percentage of exposed residues,0
+Percentage of buried residues,0
+Hydropathy index,0
+Average accessible surface area,0
+Retention coefficient in NaClO4,0
+Hydrophobic parameter,0
+Entropy of formation,0
+Absolute entropy,0
+Heat capacity,0
+Hydrophilicity value,0
+Hydration number,0
+Volume,0
+Polarity,0
+Residue volume,0
+Hydrophobicity factor,0
+Aperiodic indices for alpha/beta-proteins,0
+Aperiodic indices for beta-proteins,0
+Aperiodic indices for alpha-proteins,0
+Aperiodic indices,0
+Beta-strand indices for alpha/beta-proteins,0
+Consensus normalized hydrophobicity scale,0
+Average membrane preference: AMP07,0
+Optical rotation,0
+Size,0
+Residue accessible surface area in folded protein,0
+Residue accessible surface area in tripeptide,0
+Average volume of buried residue,0
+A parameter of charge transfer donor capability,0
+A parameter of charge transfer capability,0
+A parameter defined from the residuals obtained from the best correlation of the Chou-Fasman parameter of beta-sheet,0
+The Chou-Fasman parameter of the coil conformation,0
+Membrane preference for cytochrome b: MPH89,0
+Steric parameter,0
+Spin-spin coupling constants 3JHalpha-NH,0
+alpha-CH chemical shifts,0
+alpha-NH chemical shifts,0
+Apparent partial specific volume,0
+Retention coefficient in HFBA,0
+Refractivity,0
+Retention coefficient in TFA,0
+Information value for accessibility; average fraction 23%,0
+Information value for accessibility; average fraction 35%,0
+Residue volume,0
+Average flexibility indices,0
+Conformational parameter of beta-turn,0
+Conformational parameter of beta-structure,0
+Conformational parameter of inner helix,0
+Membrane-buried preference parameters,0
+Signal sequence helical potential,0
+Hydrophobicity index,0
+"Retention coefficient in HPLC, pH7.4",0
+Proportion of residues 95% buried,0
+Proportion of residues 100% buried,0
+Polarizability parameter,0
+Net charge,0
+Normalized hydrophobicity scales for alpha-proteins,0
+Normalized hydrophobicity scales for beta-proteins,0
+Normalized hydrophobicity scales for alpha/beta-proteins,0
+Normalized average hydrophobicity scales,0
+Partial specific volume,0
+Normalized hydrophobicity scales for alpha+beta-proteins,0
+Average surrounding hydrophobicity,0
+Conformational preference for antiparallel beta-strands,0
+Conformational preference for parallel beta-strands,0
+Conformational preference for all beta-strands,0
+Normalized frequency of middle helix,1
+Normalized frequency of the 2nd and 3rd residues in turn,1
+Normalized frequency of left-handed helix,1
+Normalized frequency of chain reversal D,1
+Normalized frequency of chain reversal S,1
+Normalized frequency of chain reversal R,1
+Normalized frequency of isolated helix,1
+Normalized frequency of beta-sheet,1
+Normalized frequency of alpha-helix,1
+Normalized frequency of coil,1
+Normalized frequency of turn,1
+Normalized frequency of extended structure,1
+Normalized frequency of chain reversal,1
+Normalized frequency of alpha-helix,1
+Normalized relative frequency of double bend,1
+Normalized frequency of beta-sheet,1
+Normalized frequency of beta-turn,1
+Normalized frequency of N-terminal helix,1
+Normalized frequency of C-terminal helix,1
+Normalized frequency of N-terminal non helical region,1
+Normalized frequency of C-terminal non helical region,1
+Normalized frequency of N-terminal beta-sheet,1
+Normalized frequency of C-terminal beta-sheet,1
+Normalized frequency of N-terminal non beta region,1
+Normalized frequency of C-terminal non beta region,1
+Normalized frequency of beta-turn,1
+Normalized frequency of extended structure,1
+Frequency of the 1st residue in turn,1
+Frequency of the 2nd residue in turn,1
+Frequency of the 3rd residue in turn,1
+Normalized relative frequency of alpha-helix,1
+Normalized relative frequency of extended structure,1
+Normalized relative frequency of bend,1
+Normalized relative frequency of bend R,1
+Frequency of the 4th residue in turn,1
+Normalized relative frequency of bend S,1
+Normalized relative frequency of helix end,1
+Normalized frequency of alpha-helix,1
+Normalized relative frequency of coil,1
+Normalized frequency of zeta R,1
+Normalized frequency of beta-sheet in alpha+beta class,1
+Normalized frequency of alpha-helix from LG,1
+Normalized frequency of alpha-helix from CF,1
+Normalized frequency of beta-sheet from LG,1
+Normalized frequency of beta-sheet from CF,1
+Normalized frequency of turn from LG,1
+Normalized frequency of turn from CF,1
+Normalized frequency of alpha-helix in all-alpha class,1
+Normalized frequency of alpha-helix in alpha/beta class,1
+Normalized frequency of beta-sheet in all-beta class,1
+Normalized frequency of beta-sheet in alpha/beta class,1
+Normalized frequency of turn in all-alpha class,1
+Normalized frequency of alpha-helix,1
+Normalized frequency of turn in all-beta class,1
+Normalized frequency of turn in alpha/beta class,1
+Frequency of occurrence in beta-bends,1
+"Normalized frequency of reverse turn, unweighted",1
+"Normalized frequency of beta-sheet, unweighted",1
+"Normalized frequency of alpha-helix, unweighted",1
+"Normalized frequency of reverse turn, with weights",1
+"Normalized frequency of beta-sheet, with weights",1
+"Normalized frequency of alpha-helix, with weights",1
+Relative frequency in alpha-helix,1
+Relative frequency in beta-sheet,1
+Relative frequency in reverse-turn,1
+Normalized frequency of turn in alpha+beta class,1
+Normalized frequency of extended structure,1
+Normalized frequency of alpha-helix in alpha+beta class,1
+Normalized frequency of bata-structure,1
+Normalized frequency of alpha region,1
+Normalized frequency of zeta L,1
+Normalized frequency of zeta R,1
+Normalized frequency of alpha-helix,1
+Normalized frequency of left-handed alpha-helix,1
+Normalized frequency of coil,1
+Free energy change of epsilon(i) to epsilon(ex),2
+Free energy change of alpha(Ri) to alpha(Rh),2
+Free energy change of epsilon(i) to alpha(Rh),2
+Transfer free energy to surface,2
+"Unfolding Gibbs energy in water, pH7.0",2
+"Unfolding Gibbs energy in water, pH9.0",2
+"Activation Gibbs energy of unfolding, pH7.0",2
+"Activation Gibbs energy of unfolding, pH9.0",2
+Free energies of transfer of AcWl-X-LL peptides from bilayer interface to water,2
+Free energy in beta-strand region,2
+Free energy in beta-strand region,2
+Free energy in beta-strand conformation,2
+Partition energy,2
+Free energy in alpha-helical region,2
+Free energy in alpha-helical conformation,2
+"Free energy of solution in water, kcal/mole",2
+Effective partition energy,2
+Transfer free energy to lipophilic phase,2
+Solvation free energy,2
+Long range non-bonded energy per atom,2
+Transfer free energy,2
+Transfer free energy from vap to chx,2
+Transfer free energy from oct to wat,2
+Transfer free energy from chx to wat,2
+"Transfer free energy, CHP/water",2
+Average non-bonded energy per residue,2
+Short and medium range non-bonded energy per residue,2
+Transfer free energy from chx to oct,2
+Short and medium range non-bonded energy per atom,2
+"Transfer energy, organic solvent/water",2
+Optimized average non-bonded energy per atom,2
+Hydration free energy,2
+Energy transfer from out to in(95%buried),2
+Transfer free energy from vap to oct,2
+Transfer free energy,2
+Average non-bonded energy per atom,2
+Optimized transfer energy parameter,2
+Normalized positional residue frequency at helix termini C3 ,3
+Normalized positional residue frequency at helix termini C2 ,3
+Normalized positional residue frequency at helix termini C1 ,3
+Normalized positional residue frequency at helix termini C4 ,3
+"Normalized positional residue frequency at helix termini N""' ",3
+"Normalized positional residue frequency at helix termini C"" ",3
+Normalized positional residue frequency at helix termini C' ,3
+Normalized positional residue frequency at helix termini C5 ,3
+"Normalized positional residue frequency at helix termini C""' ",3
+Normalized positional residue frequency at helix termini C4' ,3
+Normalized positional residue frequency at helix termini Cc ,3
+Normalized positional residue frequency at helix termini N5 ,3
+Normalized positional residue frequency at helix termini N4',3
+Normalized positional residue frequency at helix termini N3 ,3
+Normalized positional residue frequency at helix termini N2 ,3
+Normalized positional residue frequency at helix termini N1 ,3
+Normalized positional residue frequency at helix termini Nc ,3
+Normalized positional residue frequency at helix termini N',3
+"Normalized positional residue frequency at helix termini N"" ",3
+Normalized positional residue frequency at helix termini N4 ,3
+Side-chain conformation by gaussian evolutionary method,4
+Side-chain contribution to protein stability (kJ/mol),4
+Side chain angle theta(AAR),4
+Side chain torsion angle phi(AAAR),4
+Average reduced distance for side chain,4
+Radius of gyration of side chain,4
+STERIMOL length of the side chain,4
+Average side chain orientation angle,4
+"Side chain hydropathy, corrected for solvation",4
+"Side chain hydropathy, uncorrected for solvation",4
+Loss of Side chain hydropathy by helix formation,4
+Hydropathies of amino acid side chains pi-values in pH 7.0,4
+Hydropathies of amino acid side chains neutral form,4
+Optimized side chain interaction parameter,4
+Side chain volume,4
+Scaled side chain hydrophobicity values,4
+Average interactions per side chain atom,4
+Distance between C-alpha and centroid of side chain,4
+Side chain orientational preference,4
+STERIMOL minimum width of the side chain,4
+The number of bonds in the longest chain,4
+The number of atoms in the side chain labelled 3+1,4
+The number of atoms in the side chain labelled 2+1,4
+The number of atoms in the side chain labelled 1+1,4
+Side chain interaction parameter,4
+Side chain interaction parameter,4
+Average reduced distance for side chain,4
+STERIMOL maximum width of the side chain,4
+Weights for alpha-helix at the window position of -1,5
+Weights for alpha-helix at the window position of -2,5
+Weights for alpha-helix at the window position of -3,5
+Weights for beta-sheet at the window position of -3,5
+Weights for alpha-helix at the window position of -5,5
+Weights for alpha-helix at the window position of -6,5
+Weights for alpha-helix at the window position of 0,5
+Weights for alpha-helix at the window position of -4,5
+Weights for alpha-helix at the window position of 1,5
+Weights for beta-sheet at the window position of 6,5
+Weights for beta-sheet at the window position of 4,5
+Weights for coil at the window position of 6,5
+Weights for beta-sheet at the window position of -2,5
+Weights for beta-sheet at the window position of -1,5
+Weights for coil at the window position of 5,5
+Weights for coil at the window position of 4,5
+Weights for coil at the window position of 3,5
+Weights for coil at the window position of 2,5
+Weights for beta-sheet at the window position of 0,5
+Weights for beta-sheet at the window position of -4,5
+Weights for beta-sheet at the window position of 1,5
+Weights for beta-sheet at the window position of 3,5
+Weights for coil at the window position of 1,5
+Weights for beta-sheet at the window position of 5,5
+Weights for coil at the window position of -6,5
+Weights for coil at the window position of -5,5
+Weights for coil at the window position of 0,5
+Weights for coil at the window position of -1,5
+Weights for coil at the window position of -2,5
+Weights for beta-sheet at the window position of 2,5
+Weights for beta-sheet at the window position of -5,5
+Weights for beta-sheet at the window position of -6,5
+Weights for alpha-helix at the window position of 6,5
+Weights for coil at the window position of -4,5
+Weights for alpha-helix at the window position of 2,5
+Weights for coil at the window position of -3,5
+Weights for alpha-helix at the window position of 4,5
+Weights for alpha-helix at the window position of 5,5
+Weights for alpha-helix at the window position of 3,5
+Transmembrane regions of non-mt-proteins,6
+Normalized composition of membrane proteins,6
+AA composition of membrane proteins,6
+AA composition of CYT2 of single-spanning proteins,6
+AA composition of mt-proteins from fungi and plant,6
+AA composition of mt-proteins from animal,6
+AA composition of mt-proteins,6
+SD of AA composition of total proteins,6
+AA composition of EXT of single-spanning proteins,6
+AA composition of MEM of multi-spanning proteins,6
+AA composition of EXT of multi-spanning proteins,6
+Composition of amino acids in anchored proteins (percent),6
+AA composition of CYT of multi-spanning proteins,6
+Normalized composition of mt-proteins,6
+AA composition of total proteins,6
+Composition of amino acids in membrane proteins (percent),6
+AA composition of EXT2 of single-spanning proteins,6
+Composition of amino acids in intracellular proteins (percent),6
+Composition of amino acids in nuclear proteins (percent),6
+Surface composition of amino acids in intracellular proteins of thermophiles (percent),6
+Surface composition of amino acids in intracellular proteins of mesophiles (percent),6
+Surface composition of amino acids in extracellular proteins of mesophiles (percent),6
+Surface composition of amino acids in nuclear proteins (percent),6
+Interior composition of amino acids in intracellular proteins of thermophiles (percent),6
+Interior composition of amino acids in intracellular proteins of mesophiles (percent),6
+Interior composition of amino acids in extracellular proteins of mesophiles (percent),6
+Interior composition of amino acids in nuclear proteins (percent),6
+Amino acid composition,6
+Entire chain composition of amino acids in intracellular proteins of thermophiles (percent),6
+Entire chain composition of amino acids in extracellular proteins of mesophiles (percent),6
+Entire chain compositino of amino acids in nuclear proteins (percent),6
+Composition of amino acids in extracellular proteins (percent),6
+AA composition of MEM of single-spanning proteins,6
+Distribution of amino acid residues in the alpha-helices in mesophilic proteins,6
+Distribution of amino acid residues in the alpha-helices in thermophilic proteins,6
+Distribution of amino acid residues in the 18 non-redundant families of mesophilic proteins,6
+Distribution of amino acid residues in the 18 non-redundant families of thermophilic proteins,6
+Transmembrane regions of mt-proteins,6
+Composition,6
+Entire chain composition of amino acids in intracellular proteins of mesophiles (percent),6
+AA composition of CYT of single-spanning proteins,6
+"Relative preference value at C""",7
+Relative preference value at Mid,7
+Relative preference value at C-cap,7
+Relative preference value at C1,7
+Relative preference value at C2,7
+Relative preference value at C3,7
+Relative preference value at C4,7
+Relative preference value at C5,7
+Relative preference value at N5,7
+Relative preference value at C',7
+Relative preference value at N2,7
+Average relative fractional occurrence in AR(i),7
+Relative preference value at N-cap,7
+Relative preference value at N3,7
+Relative mutability,7
+Average relative fractional occurrence in A0(i),7
+Relative population of conformational state E,7
+Relative population of conformational state C,7
+Relative population of conformational state A,7
+Average relative fractional occurrence in AL(i),7
+Average relative fractional occurrence in EL(i),7
+Average relative fractional occurrence in E0(i),7
+Average relative fractional occurrence in ER(i),7
+Average relative fractional occurrence in A0(i-1),7
+Relative preference value at N1,7
+Average relative fractional occurrence in AR(i-1),7
+Average relative fractional occurrence in EL(i-1),7
+Average relative fractional occurrence in E0(i-1),7
+Average relative fractional occurrence in ER(i-1),7
+Relative frequency of occurrence,7
+Relative mutability,7
+Average relative probability of helix ,7
+Average relative probability of beta-sheet ,7
+Average relative probability of inner helix ,7
+Average relative probability of inner beta-sheet ,7
+"Relative preference value at N""",7
+Relative preference value at N',7
+Average relative fractional occurrence in AL(i-1),7
+Relative preference value at N4,7
