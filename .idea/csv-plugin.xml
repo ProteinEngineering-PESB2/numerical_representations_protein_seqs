@@ -10,6 +10,55 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\clustering_aaindex_result_text\2_embedding_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\clustering_aaindex_result_text\2_exploratory_clustering.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\clustering_aaindex_result_text\3_embedding_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\clustering_aaindex_result_text\3_exploratory_clustering.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\clustering_aaindex_result_text\4_exploratory_clustering.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\clustering_aaindex_result_text\embedding_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\clustering_aaindex_result_text\exploratory_clustering.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\clustering_aaindex_results\best_partitions_selected\Agglomerative_average-euclidean-2.csv">
           <value>
             <Attribute>

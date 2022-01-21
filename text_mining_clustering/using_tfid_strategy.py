@@ -14,22 +14,20 @@ features = vec.transform(dataset.description)
 matrix_summary = []
 clustering_instance = clustering_algorithms.aplicateClustering(features)
 
+
 print("Explore k-means")
 for k in range(2,30):
     response = clustering_instance.aplicateKMeans(k)
     if response == 0:
-        eval_clustering = evaluation_clustering.evaluationClustering(features, clustering_instance.labels)
-        evaluation_cluster = {"algorithm": "K-means", "K": k, "calinski": eval_clustering.calinski, "siluetas": eval_clustering.siluetas}
+        eval_clustering = evaluation_clustering.evaluationClustering(features.toarray(), clustering_instance.labels)
         labels = [str(value) for value in clustering_instance.labels]
-        evaluation_cluster.update({"labels":labels})
         row_data = ["k-means", k, eval_clustering.calinski, eval_clustering.siluetas]
         matrix_summary.append(row_data)
-
 print("Explore Birch")
 for k in range(2,30):
     response = clustering_instance.aplicateBirch(k)
     if response == 0:
-        eval_clustering = evaluation_clustering.evaluationClustering(features, clustering_instance.labels)
+        eval_clustering = evaluation_clustering.evaluationClustering(features.toarray(), clustering_instance.labels)
         evaluation_cluster = {"algorithm": "Birch", "K": k, "calinski": eval_clustering.calinski, "siluetas": eval_clustering.siluetas}
         labels = [str(value) for value in clustering_instance.labels]
         evaluation_cluster.update({"labels":labels})
@@ -39,7 +37,7 @@ for k in range(2,30):
 print("Apply DBScan")
 response = clustering_instance.aplicateDBSCAN()
 if response == 0:
-    eval_clustering = evaluation_clustering.evaluationClustering(features, clustering_instance.labels)
+    eval_clustering = evaluation_clustering.evaluationClustering(features.toarray(), clustering_instance.labels)
     evaluation_cluster = {"algorithm": "DBSCAN", "param": "-", "calinski": eval_clustering.calinski,
                           "siluetas": eval_clustering.siluetas}
     labels = [str(value) for value in clustering_instance.labels]
@@ -50,7 +48,7 @@ if response == 0:
 print("Apply Affinity")
 response = clustering_instance.aplicateAffinityPropagation()
 if response == 0:
-    eval_clustering = evaluation_clustering.evaluationClustering(features, clustering_instance.labels)
+    eval_clustering = evaluation_clustering.evaluationClustering(features.toarray(), clustering_instance.labels)
     evaluation_cluster = {"algorithm": "Affinity", "param": "-", "calinski": eval_clustering.calinski,
                           "siluetas": eval_clustering.siluetas}
     labels = [str(value) for value in clustering_instance.labels]
@@ -61,7 +59,7 @@ if response == 0:
 print("Apply Mean shift")
 response = clustering_instance.aplicateMeanShift()
 if response == 0:
-    eval_clustering = evaluation_clustering.evaluationClustering(features, clustering_instance.labels)
+    eval_clustering = evaluation_clustering.evaluationClustering(features.toarray(), clustering_instance.labels)
     evaluation_cluster = {"algorithm": "Mean Shift", "param": "-", "calinski": eval_clustering.calinski,
                           "siluetas": eval_clustering.siluetas}
     labels = [str(value) for value in clustering_instance.labels]
@@ -75,7 +73,7 @@ for linkage in ['ward', 'complete', 'average', 'single']:
         for k in range(2, 30):
             response = clustering_instance.aplicateAlgomerativeClustering(linkage, affinity, k)
             if response == 0:
-                eval_clustering = evaluation_clustering.evaluationClustering(features,
+                eval_clustering = evaluation_clustering.evaluationClustering(features.toarray(),
                                                                              clustering_instance.labels)
                 params = "{}-{}-{}".format(linkage, affinity, k)
                 evaluation_cluster = {"algorithm": "Agglomerative", "param": params, "calinski": eval_clustering.calinski,
