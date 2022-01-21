@@ -1,0 +1,6 @@
+algorithm,params,calinski,siluetas,file
+k-means,3,1649.7352901557697,0.56305766,2_exploratory_clustering.csv
+Agglomerative,ward-euclidean-2,1150.1994901725575,0.57645303,2_exploratory_clustering.csv
+Agglomerative,average-euclidean-2,1127.904690673293,0.57526016,2_exploratory_clustering.csv
+Agglomerative,average-l2-2,1127.904690673293,0.57526016,2_exploratory_clustering.csv
+Agglomerative,average-cosine-2,1072.231875546651,0.56718075,2_exploratory_clustering.csv

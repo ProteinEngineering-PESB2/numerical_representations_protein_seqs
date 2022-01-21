@@ -59,6 +59,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\clustering_aaindex_result_text\exporting_selected_best_calinski.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\clustering_aaindex_result_text\exporting_selected_best_silhouette.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\clustering_aaindex_results\best_partitions_selected\Agglomerative_average-euclidean-2.csv">
           <value>
             <Attribute>
