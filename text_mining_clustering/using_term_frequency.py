@@ -29,4 +29,5 @@ model = KMeans(n_clusters=true_k, init='k-means++', max_iter=300, n_init=10)
 model.fit(X)
 labels=model.labels_
 data_Result=pd.DataFrame(list(zip(dataset['description'],labels)),columns=['description','cluster'])
-print(data_Result.sort_values(by=['cluster']))
+data_Result.sort_values(by=['cluster'], inplace=True)
+data_Result.to_csv("demo.csv", index=False)
