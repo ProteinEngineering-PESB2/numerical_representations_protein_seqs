@@ -14,16 +14,22 @@ k=8
 #for k in range(5, 11):
 command = "mkdir {}k_means_{}".format(path_export, k)
 print(command)
-os.system(command)
+#os.system(command)
 
 clustering = clustering_algorithms.aplicateClustering(encoders_embedding)
 clustering.aplicateKMeans(k)
-data_properties['label'] = clustering.labels
-encoders_embedding['label'] = clustering.labels
+label_values = ["Group {}".format(element) for element in clustering.labels]
 
-fig = px.scatter(encoders_embedding, x="p_0", y="p_1", color="label", symbol="label", hover_data=['label'])
-fig.write_image("{}k_means_{}\\scatter_plot.svg".format(path_export, k))
-data_properties.to_csv("{}k_means_{}\\properties_clustered.csv".format(path_export, k), index=False)
+data_properties['label'] = label_values
+encoders_embedding['label'] = label_values
+encoders_embedding['Component 1'] = encoders_embedding['p_1']
+encoders_embedding['Component 2'] = encoders_embedding['p_0']
+
+size_value = [1 for i in range(len(encoders_embedding))]
+
+fig = px.scatter(encoders_embedding, x="Component 2", y="Component 1", color="label", size=size_value, hover_data=['label'])
+fig.write_image("{}best_partitions\\scatter_plot.svg".format(path_export))
+data_properties.to_csv("{}best_partitions\\properties_clustered.csv".format(path_export), index=False)
 
 '''
 print("Processing best partitions")

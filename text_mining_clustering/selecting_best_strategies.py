@@ -36,12 +36,13 @@ df_values = pd.DataFrame(matrix_data, columns=['algorithm', 'params', 'calinski'
 
 print("Making histogram")
 fig = make_subplots(rows=1, cols=2)
-trace0 = go.Histogram(x=df_values['calinski'], name='Calinski-Harabasz')
-trace1 = go.Histogram(x=df_values['siluetas'], name='Silhouettes coefficient')
+#['', 'percent', 'probability', 'density', 'probability density']
+trace0 = go.Histogram(x=df_values['calinski'], name='Calinski-Harabasz', histnorm='probability')
+trace1 = go.Histogram(x=df_values['siluetas'], name='Silhouettes coefficient', histnorm='probability')
 
 fig.append_trace(trace0, 1, 1)
 fig.append_trace(trace1, 1, 2)
-fig.write_image(path_input+"histograms_results.png")
+fig.write_image(path_input+"histograms_results.svg")
 
 print("Get max values")
 min_cal = np.mean(df_values['calinski']) + 3*np.std(df_values['calinski'])
