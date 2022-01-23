@@ -25,6 +25,7 @@ for vec in vec_size:
     print("Training encoder")
     model.train(tagged_data, total_examples=model.corpus_count, epochs=500)
 
+
     print("Get embedding")
     embedding_matrix = []
 

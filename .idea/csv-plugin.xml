@@ -87,6 +87,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\clustering_aaindex_results_numerical\best_calinski.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\clustering_aaindex_results_numerical\best_siluetas.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\clustering_aaindex_results_numerical\exploratory_clustering.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\creating_encoders\demo.csv">
           <value>
             <Attribute>
