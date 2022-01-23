@@ -1,0 +1,1 @@
+[{"n_estimator": 100, "criterion": "gini", "training_scores": {"test_precision_weighted": 0.7873027297452158, "test_recall_weighted": 0.7770484744094489, "test_accuracy": 0.7770484744094489, "test_f1_weighted": 0.7756216485625086}, "testing_scores": {"accuracy": 0.7937956204379562, "f_score": 0.7916406649625685, "precision": 0.8050011625428315, "recall": 0.7937956204379562}}]

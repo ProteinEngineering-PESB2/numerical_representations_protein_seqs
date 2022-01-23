@@ -157,6 +157,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\testing\dna_binding\encoding_properties\Group_0_properties.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\testing\dna_binding\encoding_properties\Group_1_properties.csv">
           <value>
             <Attribute>
@@ -228,6 +235,13 @@
           </value>
         </entry>
         <entry key="\testing\folding_class_same_function\dataset_processed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\testing\folding_class_same_function\encoding_FFT\Group_0_fft_encoding.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
