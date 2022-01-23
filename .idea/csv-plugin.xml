@@ -45,20 +45,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\clustering_aaindex_result_text\embedding_data.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\clustering_aaindex_result_text\exploratory_clustering.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\clustering_aaindex_result_text\exporting_selected_best_calinski.csv">
           <value>
             <Attribute>
@@ -67,20 +53,6 @@
           </value>
         </entry>
         <entry key="\clustering_aaindex_result_text\exporting_selected_best_silhouette.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\clustering_aaindex_results\best_partitions_selected\Agglomerative_average-euclidean-2.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\clustering_aaindex_results\best_partitions_selected\k-means_28.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -102,69 +74,6 @@
           </value>
         </entry>
         <entry key="\clustering_aaindex_results_numerical\exploratory_clustering.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\creating_encoders\demo.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\clustering\Group 0.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\clustering\Group 1.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\clustering\Group 2.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\clustering\Group 3.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\clustering\Group 4.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\clustering\Group 5.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\clustering\Group 6.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\clustering\Group 7.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -234,21 +143,42 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\result_clustering_text_mining\k_means_8\properties_clustered.csv">
+        <entry key="\testing\dna_binding\process_dataset.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\results_clustering_text_mining\k_means_8\properties_clustered.csv">
+        <entry key="\testing\enantioselectivity\process_dataset.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\text_mining_clustering\demo.csv">
+        <entry key="\testing\enzyme_family_class\dataset_processed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\testing\enzyme_family_class\hydrolases.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\testing\folding_class_same_function\dataset_processed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\testing\function_class_same_folding\dataset_processed.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
