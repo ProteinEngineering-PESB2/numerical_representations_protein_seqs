@@ -143,6 +143,69 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\testing\dna_binding\encoding_FFT\Group_0_fft_domain.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\testing\dna_binding\encoding_FFT\Group_0_fft_encoding.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\testing\dna_binding\encoding_properties\Group_1_properties.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\testing\dna_binding\encoding_properties\Group_2_properties.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\testing\dna_binding\encoding_properties\Group_3_properties.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\testing\dna_binding\encoding_properties\Group_4_properties.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\testing\dna_binding\encoding_properties\Group_5_properties.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\testing\dna_binding\encoding_properties\Group_6_properties.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\testing\dna_binding\encoding_properties\Group_7_properties.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\testing\dna_binding\process_dataset.csv">
           <value>
             <Attribute>
@@ -164,13 +227,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\testing\enzyme_family_class\hydrolases.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\testing\folding_class_same_function\dataset_processed.csv">
           <value>
             <Attribute>
@@ -179,6 +235,13 @@
           </value>
         </entry>
         <entry key="\testing\function_class_same_folding\dataset_processed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\testing\stability_analysis\processed_data.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
