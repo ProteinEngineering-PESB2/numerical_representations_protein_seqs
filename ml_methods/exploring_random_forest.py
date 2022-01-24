@@ -45,6 +45,7 @@ suffix_dir = sys.argv[5]
 json_response = {}
 
 command = "mkdir {}exploring_rf_results_{}".format(path_export, suffix_dir)
+print(command)
 os.system(command)
 
 print("Preparing dataset")
