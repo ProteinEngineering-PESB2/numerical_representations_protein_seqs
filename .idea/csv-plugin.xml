@@ -220,6 +220,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\testing\dna_binding\results_training_explore\exporting_join_results.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\testing\enantioselectivity\process_dataset.csv">
           <value>
             <Attribute>
