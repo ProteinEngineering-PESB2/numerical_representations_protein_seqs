@@ -150,6 +150,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\testing\design_proteins\amp_multiple\Group_0_properties.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\testing\design_proteins\amp_multiple\process_dataset.csv">
           <value>
             <Attribute>

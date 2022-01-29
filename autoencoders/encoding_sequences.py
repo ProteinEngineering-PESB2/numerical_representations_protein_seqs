@@ -49,5 +49,6 @@ for group in ['Group_0','Group_1','Group_2','Group_3','Group_4','Group_5','Group
     for column in columns_filter:
         df_export[column] = dataset[column]
 
+    print(df_export)
     df_export.to_csv("{}{}_properties.csv".format(path_export, group), index=False)
 
