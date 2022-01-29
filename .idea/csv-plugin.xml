@@ -150,6 +150,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\testing\design_proteins\amp_multiple\process_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\testing\dna_binding\encoding_FFT\Group_0_fft_domain.csv">
           <value>
             <Attribute>
