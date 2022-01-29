@@ -80,6 +80,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\result_clustering_text_mining\best_partitions\properties_clustered.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\result_clustering_text_mining\clustering\Group_0\dataset.csv">
           <value>
             <Attribute>
@@ -157,6 +164,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\testing\dna_binding\encoding_FFT\Group_0_fft_encoding_v2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\testing\dna_binding\encoding_properties\Group_0_properties.csv">
           <value>
             <Attribute>
@@ -220,6 +234,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\testing\dna_binding\results_training_explore\adding_overfitting_rate.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\testing\dna_binding\results_training_explore\exporting_join_results.csv">
           <value>
             <Attribute>
@@ -241,6 +262,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\testing\enzyme_family_class\results_training\adding_overfitting_rate.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\testing\folding_class_same_function\dataset_processed.csv">
           <value>
             <Attribute>
@@ -255,7 +283,28 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\testing\folding_class_same_function\encoding_FFT\Group_0_fft_encoding_v2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\testing\folding_class_same_function\results_training\adding_overfitting_rate.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\testing\function_class_same_folding\dataset_processed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\testing\function_class_same_folding\result_training\adding_overfitting_rate.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
