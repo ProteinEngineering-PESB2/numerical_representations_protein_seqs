@@ -8,3 +8,9 @@ Computational methods in protein engineering often require encoding amino acid s
 - dataset testing: Has the different builded dataset to evaluate the proposed methodology.
 - results: Contains the proposed encoders using the methodology developed in this work.
 - sourcecode: Contains the different Python scripts implemented on this work.
+
+## Contact us
+
+- Sebastián Contreras: sebastian.contreras@ds.mpg.de
+- Álvaro Olivera-Nappa: aolivera@ing.uchile.cl
+- David Medina-Ortiz: david.medina@cebib.cl
