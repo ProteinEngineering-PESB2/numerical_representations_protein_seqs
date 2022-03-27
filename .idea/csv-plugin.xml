@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\aaindexdb\aaindex_db_properties_values.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\clustering_aaindex_result_text\2_embedding_data.csv">
           <value>
             <Attribute>

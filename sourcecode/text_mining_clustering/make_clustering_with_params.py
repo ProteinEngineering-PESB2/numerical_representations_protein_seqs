@@ -2,7 +2,6 @@ import pandas as pd
 import sys
 import clustering_algorithms
 import plotly.express as px
-import os
 
 print("Get input data")
 data_properties = pd.read_csv(sys.argv[1])
