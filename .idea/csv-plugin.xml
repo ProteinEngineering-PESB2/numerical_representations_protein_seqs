@@ -80,6 +80,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\ml_methods\sebas_model\dna\one_hot.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\ml_methods\unique_config.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\result_clustering_text_mining\best_partitions\properties_clustered.csv">
           <value>
             <Attribute>
@@ -262,13 +276,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\testing\enantioselectivity\process_dataset.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\testing\enzyme_family_class\dataset_processed.csv">
           <value>
             <Attribute>
@@ -304,6 +311,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\testing\folding_class_same_function\encoding_FFT\exploring_rf_results_Group_0\results_exploring_iterations.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\testing\folding_class_same_function\results_training\adding_overfitting_rate.csv">
           <value>
             <Attribute>
@@ -318,14 +332,14 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\testing\function_class_same_folding\result_training\adding_overfitting_rate.csv">
+        <entry key="\testing\function_class_same_folding\encoding_properties\exploring_rf_results_Group_5\results_exploring_iterations.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\testing\stability_analysis\processed_data.csv">
+        <entry key="\testing\function_class_same_folding\result_training\adding_overfitting_rate.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

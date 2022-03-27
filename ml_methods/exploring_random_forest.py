@@ -17,15 +17,15 @@ def get_metrics_prediction(prediction, real_labels):
     precision = precision_score(real_labels, prediction, average='weighted')
     recall = recall_score(real_labels, prediction, average='weighted')
 
-    dict_data = {"accuracy": accuracy, "f_score": fscore, "precision": precision, "recall": recall}
+    dict_data = [precision, recall, accuracy, fscore]
     return dict_data
 
 def estimated_training_performances(scores):
 
-    json_training = {}
+    json_training = []
     for key in scores:
         if key not in ['fit_time', 'score_time']:
-            json_training.update({key:np.mean(scores[key])})
+            json_training.append(np.mean(scores[key]))
     return json_training
 
 def discretize_response_funct(json_data, response_data):
@@ -45,8 +45,8 @@ suffix_dir = sys.argv[5]
 json_response = {}
 
 command = "mkdir {}exploring_rf_results_{}".format(path_export, suffix_dir)
-print(command)
-os.system(command)
+#print(command)
+#os.system(command)
 
 print("Preparing dataset")
 response_data = dataset[response_key]
@@ -69,30 +69,26 @@ X_train, X_test, y_train, y_test = train_test_split(dataset, response_data, test
 print("Start exploring")
 scoring = ['precision_weighted', 'recall_weighted', 'accuracy', 'f1_weighted']
 
-dict_response_training_process = []
-for n_estimator in [100, 150, 200, 250, 500]:
-    for criterion in ['gini', 'entropy']:
-        dict_values = {"n_estimator": n_estimator, "criterion": criterion}
-        rf_clf = RandomForestClassifier(n_estimators=n_estimator, criterion=criterion)
-        rf_clf.fit(X_train, y_train)
-        scores = cross_validate(rf_clf, X_train, y_train, scoring=scoring, cv=10)
-        training_scores = estimated_training_performances(scores)
-        dict_values.update({"training_scores":training_scores})
+data_response_models = []
+n_estimator = 100
+criterion = 'gini'
 
-        response_predict = rf_clf.predict(X_test)
-        testing_scores = get_metrics_prediction(response_predict, y_test)
+for i in range(100):
+    dict_values = {"n_estimator": n_estimator, "criterion": criterion}
+    rf_clf = RandomForestClassifier(n_estimators=n_estimator, criterion=criterion)
+    rf_clf.fit(X_train, y_train)
+    scores = cross_validate(rf_clf, X_train, y_train, scoring=scoring, cv=10)
+    training_scores = estimated_training_performances(scores)
 
-        dict_values.update({"testing_scores": testing_scores})
-        dict_response_training_process.append(dict_values)
+    response_predict = rf_clf.predict(X_test)
+    testing_scores = get_metrics_prediction(response_predict, y_test)
+    params = [n_estimator, criterion, i]
+    row_data = params + training_scores + testing_scores
+    data_response_models.append(row_data)
 
 print("Exporting results")
-name_export_dict = "{}exploring_rf_results_{}\\mean_responses.json".format(path_export, suffix_dir)
-name_export_results = "{}exploring_rf_results_{}\\results_exploring.json".format(path_export, suffix_dir)
 
-with open(name_export_dict, 'w') as f1:
-    json.dump(json_response, f1)
+df = pd.DataFrame(data_response_models, columns=['n_estimators', 'criterion', 'iteratation', 'precision_weighted_tra', 'recall_weighted_tra', 'accuracy_tra', 'f1_weighted_tra', 'precision_weighted_test', 'recall_weighted_test', 'accuracy_test', 'f1_weighted_test'])
+name_export_results = "{}exploring_rf_results_{}\\results_exploring_iterations.csv".format(path_export, suffix_dir)
+df.to_csv(name_export_results)
 
-with open(name_export_results, 'w') as f2:
-    json.dump(dict_response_training_process, f2)
-
-print(dict_response_training_process)

@@ -1,9 +1,0 @@
-input,path_output,response,discrete,suffix
-..\testing\enzyme_family_class\encoding_FFT\Group_0_fft_encoding_v2.csv,..\testing\enzyme_family_class\encoding_FFT\,doc,0,Group_0
-..\testing\enzyme_family_class\encoding_FFT\Group_1_fft_encoding_v2.csv,..\testing\enzyme_family_class\encoding_FFT\,doc,0,Group_1
-..\testing\enzyme_family_class\encoding_FFT\Group_2_fft_encoding_v2.csv,..\testing\enzyme_family_class\encoding_FFT\,doc,0,Group_2
-..\testing\enzyme_family_class\encoding_FFT\Group_3_fft_encoding_v2.csv,..\testing\enzyme_family_class\encoding_FFT\,doc,0,Group_3
-..\testing\enzyme_family_class\encoding_FFT\Group_4_fft_encoding_v2.csv,..\testing\enzyme_family_class\encoding_FFT\,doc,0,Group_4
-..\testing\enzyme_family_class\encoding_FFT\Group_5_fft_encoding_v2.csv,..\testing\enzyme_family_class\encoding_FFT\,doc,0,Group_5
-..\testing\enzyme_family_class\encoding_FFT\Group_6_fft_encoding_v2.csv,..\testing\enzyme_family_class\encoding_FFT\,doc,0,Group_6
-..\testing\enzyme_family_class\encoding_FFT\Group_7_fft_encoding_v2.csv,..\testing\enzyme_family_class\encoding_FFT\,doc,0,Group_7
