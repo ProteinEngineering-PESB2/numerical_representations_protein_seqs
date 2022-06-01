@@ -3,13 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\aaindex_db\aa_index_db_descriptions.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\aaindexdb\aaindex_db_properties_values.csv">
           <value>
             <Attribute>
@@ -17,336 +10,84 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\clustering_aaindex_result_text\2_embedding_data.csv">
+        <entry key="\dataset_testing\data_for_sebas\hydrolases\Group_0_properties.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\clustering_aaindex_result_text\2_exploratory_clustering.csv">
+        <entry key="\dataset_testing\data_for_sebas\hydrolases\hydrolases_data_raw.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\clustering_aaindex_result_text\3_embedding_data.csv">
+        <entry key="\dataset_testing\data_for_sebas\ligases\Group_7_properties.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\clustering_aaindex_result_text\3_exploratory_clustering.csv">
+        <entry key="\dataset_testing\data_for_sebas\peptide_sequences\AB\AB.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\clustering_aaindex_result_text\4_exploratory_clustering.csv">
+        <entry key="\dataset_testing\data_for_sebas\peptide_sequences\AB\Group_0_properties.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\clustering_aaindex_result_text\exporting_selected_best_calinski.csv">
+        <entry key="\dataset_testing\data_for_sebas\peptide_sequences\AB\Group_1_properties.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\clustering_aaindex_result_text\exporting_selected_best_silhouette.csv">
+        <entry key="\dataset_testing\data_for_sebas\peptide_sequences\AC\Group_0_properties.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\clustering_aaindex_results_numerical\best_calinski.csv">
+        <entry key="\dataset_testing\dna_binding\process_dataset.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\clustering_aaindex_results_numerical\best_siluetas.csv">
+        <entry key="\dataset_testing\enzyme_family_class\dataset_processed.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\clustering_aaindex_results_numerical\exploratory_clustering.csv">
+        <entry key="\dataset_testing\folding_class_same_function\dataset_processed.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\ml_methods\sebas_model\dna\one_hot.csv">
+        <entry key="\results\best_partitions\properties_clustered.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\ml_methods\unique_config.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\best_partitions\properties_clustered.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\clustering\Group_0\dataset.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\clustering\Group_1\dataset.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\clustering\Group_2\dataset.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\clustering\Group_3\dataset.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\clustering\Group_4\dataset.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\clustering\Group_5\dataset.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\clustering\Group_6\dataset.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\clustering\Group_7\dataset.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\result_clustering_text_mining\clustering\encoders_generated.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\design_proteins\amp_multiple\Group_0_properties.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\design_proteins\amp_multiple\process_dataset.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\dna_binding\encoding_FFT\Group_0_fft_domain.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\dna_binding\encoding_FFT\Group_0_fft_encoding.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\dna_binding\encoding_FFT\Group_0_fft_encoding_v2.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\dna_binding\encoding_properties\Group_0_properties.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\dna_binding\encoding_properties\Group_1_properties.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\dna_binding\encoding_properties\Group_2_properties.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\dna_binding\encoding_properties\Group_3_properties.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\dna_binding\encoding_properties\Group_4_properties.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\dna_binding\encoding_properties\Group_5_properties.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\dna_binding\encoding_properties\Group_6_properties.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\dna_binding\encoding_properties\Group_7_properties.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\dna_binding\process_dataset.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\dna_binding\results_training_explore\adding_overfitting_rate.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\dna_binding\results_training_explore\exporting_join_results.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\enzyme_family_class\dataset_processed.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\enzyme_family_class\results_training\adding_overfitting_rate.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\folding_class_same_function\dataset_processed.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\folding_class_same_function\encoding_FFT\Group_0_fft_encoding.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\folding_class_same_function\encoding_FFT\Group_0_fft_encoding_v2.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\folding_class_same_function\encoding_FFT\exploring_rf_results_Group_0\results_exploring_iterations.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\folding_class_same_function\results_training\adding_overfitting_rate.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\function_class_same_folding\dataset_processed.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\function_class_same_folding\encoding_properties\exploring_rf_results_Group_5\results_exploring_iterations.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\testing\function_class_same_folding\result_training\adding_overfitting_rate.csv">
+        <entry key="\results\clustering\encoders_generated.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
