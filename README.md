@@ -14,3 +14,7 @@ Computational methods in protein engineering often require encoding amino acid s
 - Sebastián Contreras: sebastian.contreras@ds.mpg.de
 - Álvaro Olivera-Nappa: aolivera@ing.uchile.cl
 - David Medina-Ortiz: david.medina@cebib.cl
+
+## License
+
+All source code, environment configurations, datasets, and models are available for non-commercial use under the Creative Commons Attribution-Non-Commercial ShareAlike International License, Version 4.0 (CC-BY-NC-SA 4.0). 
