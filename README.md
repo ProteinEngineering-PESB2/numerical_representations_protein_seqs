@@ -18,3 +18,10 @@ Computational methods in protein engineering often require encoding amino acid s
 ## License
 
 All source code, environment configurations, datasets, and models are available for non-commercial use under the Creative Commons Attribution-Non-Commercial ShareAlike International License, Version 4.0 (CC-BY-NC-SA 4.0). 
+The complete source code, datasets, and models are available under the Creative Commons Attribution-Non-Commercial ShareAlike International License, Version 4.0 (CC-BY-NC-SA 4.0) for open, non-commercial use.
+
+Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+NonCommercial — You may not use the material for commercial purposes .
+
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
